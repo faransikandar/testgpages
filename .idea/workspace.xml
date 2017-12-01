@@ -67,8 +67,8 @@
         <entry file="file://$PROJECT_DIR$/olives-model.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="75">
-                <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <first_editor relative-caret-position="45">
+                <caret line="3" column="14" lean-forward="false" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -165,12 +165,12 @@
       <updated>1512142570131</updated>
       <workItem from="1512142572167" duration="28000" />
       <workItem from="1512142631474" duration="20000" />
-      <workItem from="1512142660235" duration="1539000" />
+      <workItem from="1512142660235" duration="1686000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1587000" />
+    <option name="totallyTimeSpent" value="1734000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="842" y="23" width="838" height="953" extended-state="0" />
@@ -280,8 +280,8 @@
     <entry file="file://$PROJECT_DIR$/olives-model.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="75">
-            <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <first_editor relative-caret-position="45">
+            <caret line="3" column="14" lean-forward="false" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
             <folding />
           </first_editor>
           <second_editor />
